@@ -1,7 +1,7 @@
 --- 
 
-title: "Meetuo 4: Cycle Gan"
-date: 2019-04-12T15:37:57+07:00
+title: "Meetup 4: Cycle Gan"
+date: 2018-04-12T15:37:57+07:00
 
 ---
 Chủ đề: Cycle Gan
