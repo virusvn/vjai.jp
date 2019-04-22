@@ -1,5 +1,5 @@
 title = "VJAI"
-baseURL = "https://vjai.jp"
+baseURL = "https://vjai.fullstackstation.com/"
 languageCode = "vi"
 theme = "hugo-serif-theme"
 publishDir = "docs"

@@ -3,86 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vjai.jp/ja/</loc>
+    <loc>https://vjai.fullstackstation.com/ja/</loc>
     <lastmod>2019-04-12T15:37:57+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://vjai.jp/"
+                href="https://vjai.fullstackstation.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vjai.jp/en/"
+                href="https://vjai.fullstackstation.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://vjai.jp/ja/"
+                href="https://vjai.fullstackstation.com/ja/"
                 />
   </url>
   
   <url>
-    <loc>https://vjai.jp/ja/team/</loc>
+    <loc>https://vjai.fullstackstation.com/ja/team/</loc>
     <lastmod>2018-02-12T15:37:57+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://vjai.jp/team/"
+                href="https://vjai.fullstackstation.com/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vjai.jp/en/team/"
+                href="https://vjai.fullstackstation.com/en/team/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://vjai.jp/ja/team/"
+                href="https://vjai.fullstackstation.com/ja/team/"
                 />
   </url>
   
   <url>
-    <loc>https://vjai.jp/ja/categories/</loc>
+    <loc>https://vjai.fullstackstation.com/ja/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://vjai.jp/categories/"
+                href="https://vjai.fullstackstation.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vjai.jp/en/categories/"
+                href="https://vjai.fullstackstation.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://vjai.jp/ja/categories/"
+                href="https://vjai.fullstackstation.com/ja/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://vjai.jp/ja/tags/</loc>
+    <loc>https://vjai.fullstackstation.com/ja/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://vjai.jp/tags/"
+                href="https://vjai.fullstackstation.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vjai.jp/en/tags/"
+                href="https://vjai.fullstackstation.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://vjai.jp/ja/tags/"
+                href="https://vjai.fullstackstation.com/ja/tags/"
                 />
   </url>
   

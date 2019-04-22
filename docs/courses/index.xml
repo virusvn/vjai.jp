@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Khoá học on VJAI - Cộng đồng AI Việt Nam tại Nhật Bản</title>
-    <link>https://vjai.jp/courses/</link>
+    <link>https://vjai.fullstackstation.com/courses/</link>
     <description>Recent content in Khoá học on VJAI - Cộng đồng AI Việt Nam tại Nhật Bản</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <lastBuildDate>Fri, 12 Apr 2019 15:37:57 +0700</lastBuildDate>
     
-	<atom:link href="https://vjai.jp/courses/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vjai.fullstackstation.com/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mini-course: Deep learning in Computer Vision</title>
-      <link>https://vjai.jp/courses/mini-course-deep-learning-in-cv-2019/</link>
+      <link>https://vjai.fullstackstation.com/courses/mini-course-deep-learning-in-cv-2019/</link>
       <pubDate>Fri, 12 Apr 2019 15:37:57 +0700</pubDate>
       
-      <guid>https://vjai.jp/courses/mini-course-deep-learning-in-cv-2019/</guid>
+      <guid>https://vjai.fullstackstation.com/courses/mini-course-deep-learning-in-cv-2019/</guid>
       <description>Link đăng ký học. https://goo.gl/forms/CUhzNjyqqprCurSk1
 HẠN NHẬN HỒ SƠ: 23:59 14/1/2019
 Để giúp một số thành viên của hội nắm bắt được kiến thức căn bản về AI/ML, đặc biệt là các bạn đang làm Software Engineer muốn học và tìm hiểu về lĩnh vực này, từ năm 2019, hội VJAI sẽ tổ chức thêm 1 hoạt động mới là các khoá học ngắn về từng chủ đề trong lĩnh vực AI.</description>
