@@ -1,3 +1,8 @@
+---
+title: "Meetup 12"
+date: 2018-12-02T15:00:00+07:00
+---
+
 Chào cả nhà, đến với Meetup #12, chúng ta sẽ được gặp gỡ khách mời từ 2 công ty công nghệ nổi tiếng là Microsoft và NVIDIA, với bài nói về những chủ đề cực hot trong AI hiện nay là chatbot và công nghệ xe tự lái.
 
 * Thời gian: 14h~18h Chủ nhật - 02/12/2018 (mở cửa đón khách 13h40 ~ 13h55)

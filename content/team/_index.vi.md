@@ -1,8 +1,8 @@
 ---
-title: 'Thành viên'
-date: 2018-02-12T15:37:57+07:00
+title: 'Trang chủ'
+date: 2019-04-12T15:37:57+07:00
 ---
 
-# Meet The Team
+# Vietnam Japan AI Community
 
-Vi Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Được sáng lập bởi 4 thành viên và cùng các thành viên đang làm việc tại các tập đoàn lớn tại Nhật Bản như Google, Microsoft, Hitachi, NTT, Rakuten, Line...

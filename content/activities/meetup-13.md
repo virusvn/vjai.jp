@@ -1,3 +1,8 @@
+---
+title: "Meetup 13"
+date: 2018-12-11T15:00:00+07:00
+---
+
 Chào cả nhà, đến với buổi Meetup cuối cùng của năm 2018, chúng ta sẽ đến với 2 bài toán nổi trội trong lĩnh vực xử lý ngôn ngữ tự nhiên là dịch máy (Machine Translattion) và đọc hiểu văn bản (Reading Comprehension). Hãy cùng đến xem máy tính đang tiến sát với con người trong việc xử lý ngôn ngữ đến đâu nhé.
 
 Thời gian: 14h~18h Chủ nhật - 16/12/2018 (mở cửa đón khách 13h40 ~ 13h55)

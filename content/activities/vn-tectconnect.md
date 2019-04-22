@@ -1,5 +1,6 @@
 ---
 title: "VN Techconnect 2018: Power of AI"
+date: 2017-12-01T15:37:57+07:00
 ---
 🗾 Tháng 12 này tại xứ sở mặt trời mọc, VN Geeks sẽ chính thức mang VN Techconnect trở lại với cộng đồng IT Việt Nam. Vẫn giữ trọn những giá trị làm nên thành công của sự kiện đầu tiên, VN Techconnect 2018 hứa hẹn sẽ hấp dẫn hơn nữa nhờ những đổi mới "đắt giá".
 

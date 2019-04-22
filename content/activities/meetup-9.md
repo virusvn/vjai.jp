@@ -1,3 +1,8 @@
+---
+title: "Meetup 9"
+date: 2018-09-29T15:00:00+07:00
+---
+
 Chào cả nhà,
 
 Meetup tháng 9 lần này sẽ là 2 bài nói về Mask-RCNN và Hidden Markov Model. Trong khi Mask-RCNN là thuật toán gần đây do Facebook AI Research phát triển để giải quyết bài toán Instance Segmentation trong Computer Vision thì Hidden Markov Model lại là 1 mô hình học máy thống kê cổ điển nhưng đã và đang được ứng dụng rất nhiều trong thực tiễn. Xin mời cả nhà đến tham dự và thảo luận để hiểu sâu thêm về 2 thuật toán rất hay này.

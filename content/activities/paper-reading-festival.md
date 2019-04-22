@@ -1,3 +1,8 @@
+---
+title: "Paper Reading Festival: Summer 2018"
+date: 2017-08-19T15:37:57+07:00
+---
+
 **Paper Reading Festival: Summer 2018**
 
 Mùa hè 2018 đã và đang diễn ra rất sôi động với hàng loạt các top conference liên quan đến AI/Machine Learning. Đáp ứng lại yêu cầu của nhiều bạn trong group, lần này chúng ta sẽ có 1 chương trình đặc biệt với chủ đề Paper Reading.

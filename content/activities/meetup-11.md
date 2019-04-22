@@ -1,3 +1,8 @@
+---
+title: "Meetup 11"
+date: 2018-03-11T15:00:00+07:00
+---
+
 Đến với Meetup #11, chúng ta sẽ được gặp gỡ 2 khách mời mang đến cho chúng ta 2 bài nói trong lĩnh vực Reinforcement Learning và Computer Vision.
 
 * Thời gian: 14h~18h thứ 7 - 3/11/2018 (mở cửa đón khách 13h40 ~ 13h55)

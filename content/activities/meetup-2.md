@@ -1,3 +1,8 @@
+---
+title: "Meetup 2"
+date: 2017-07-27T15:00:00+07:00
+---
+
 Cùng tìm hiểu các thuật toán đã được phát triển trong bài toán tối ưu hóa Gradient descent
 Benkyokai tháng 6 sẽ được một nhóm các bạn trình bày về chủ để Gradient Descent Optimization Algorithms
 Với 1 chủ đề xuyên suốt 2 tiếng thời lượng của chương trình, nhóm sẽ trình bày từ những khái niệm cơ bản như Gradient, những thách thức trong bài toán tối ưu hóa và những thuật toán đã và đang được ứng dụng rộng rãi: Stochastic gradient descent, momentum, ADA Grad hay Adam.

@@ -1,3 +1,8 @@
+---
+title: "Meetup 10"
+date: 2018-10-14T15:00:00+07:00
+---
+
 Chào cả nhà,
 
 Tháng 10 này chúng ta sẽ đến với 1 chủ đề đang rất HOT trong 2 năm nay với sự xưng bá của AlphaGo trong làng kỳ thủ GO: Reinforcement Learning.

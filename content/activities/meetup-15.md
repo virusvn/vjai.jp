@@ -1,5 +1,5 @@
 ---
-title: "Khách mời đặc biệt cựu kỹ sư DeepMind"
+title: "Meetup 15: Khách mời đặc biệt cựu kỹ sư DeepMind"
 date: 2019-03-19T15:37:57+07:00
 ---
 

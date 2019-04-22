@@ -1,3 +1,8 @@
+---
+title: "Meetup 1"
+date: 2017-05-27T15:00:00+07:00
+---
+
 Benkyokai đầu tiên cho 1 chuỗi sự kiện trên thềm chuẩn bị cho VWDL 2018.
 địa điểm: アカデミー向ヶ丘　phòng đa mục đích, tầng 3.
 https://goo.gl/maps/dErarXKPvhH2

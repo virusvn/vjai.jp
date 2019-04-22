@@ -1,3 +1,8 @@
+---
+title: "Meetup 6"
+date: 2018-06-27T15:00:00+07:00
+---
+
 Diễn giả: Khang Phạm
 Tiêu đề: Word embedding
 Note: từ tháng này, các event sẽ đổi tên thành VN Machine Learning Meetup (lần này là lần thứ 6 trong 1 năm qua ^^)

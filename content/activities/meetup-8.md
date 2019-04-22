@@ -1,3 +1,8 @@
+---
+title: "Meetup 8"
+date: 2018-08-27T15:00:00+07:00
+---
+
 Sequence to Sequence Models: A Review
 
 Presenter: Cao Vu Dung

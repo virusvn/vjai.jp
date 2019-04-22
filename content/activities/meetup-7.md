@@ -1,3 +1,8 @@
+---
+title: "Meetup 7"
+date: 2018-07-27T15:00:00+07:00
+---
+
 Tiêu đề: RNN và mô hình hoá ngôn ngữ
 Diễn giả: Đỗ Minh Hải
 Tóm tắt:
