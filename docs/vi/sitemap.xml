@@ -66,6 +66,28 @@
   </url>
   
   <url>
+    <loc>https://vjai.fullstackstation.com/team/</loc>
+    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vjai.fullstackstation.com/en/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vjai.fullstackstation.com/ja/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vjai.fullstackstation.com/team/"
+                />
+  </url>
+  
+  <url>
     <loc>https://vjai.fullstackstation.com/news/</loc>
     <lastmod>2019-04-12T15:37:57+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -91,28 +113,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://vjai.fullstackstation.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://vjai.fullstackstation.com/team/</loc>
-    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vjai.fullstackstation.com/en/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://vjai.fullstackstation.com/ja/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://vjai.fullstackstation.com/team/"
                 />
   </url>
   
