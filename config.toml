@@ -1,11 +1,11 @@
 title = "VJAI"
 baseURL = "https://vjai.jp"
-languageCode = "en-us"
-theme = "ananke"
+languageCode = "vi"
+theme = "hugo-serif-theme"
 # themesDir = "../.."
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "vi"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
@@ -16,9 +16,50 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
+[languages]
+  [languages.vi]
+    title = "VJAI - Cộng đồng AI Việt Nam tại Nhật Bản"
+    weight = 1
+    [languages.vi.params]
+      description = "The last theme you'll ever need. Maybe."
+
+  
+  [languages.en]
+    title = "VJAI - Vietnam Japan AI Community"
+    weight = 2
+    [languages.en.params]
+      description = "The last theme you'll ever need. Maybe."
+    [[languages.en.menu.main]]
+        name = "News"
+        url = "/en/news/"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "Team"
+        url = "/en/team/"
+        weight = 2
+
+    [[languages.en.menu.main]]
+        name = "Testimonials"
+        url = "/en/testimonials/"
+        weight = 3
+
+    [[languages.en.menu.main]]
+        name = "Contact"
+        url = "/en/contact/"
+        weight = 4
+
+    
+  [languages.ja]
+    title = "VJAI - ベトナム　日本　AI コンムニチー"
+    weight = 3
+    [languages.ja.params]
+      description = "The last theme you'll ever need. Maybe."
+
+
+
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
   facebook = "https://www.facebook.com/groups/1332064783547219/"
   twitter = ""
   instagram = ""
@@ -30,3 +71,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+

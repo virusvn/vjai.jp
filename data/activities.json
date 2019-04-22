@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Seminar chuyên sâu",
+    "description": "Seminar chuyên sâu về các chủ đề liên quan đến AI",
+    "image": "/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Đào tạo",
+    "description": "Các khoá học, buổi hướng dẫn về áp dụng AI vào bài toán thực tế",
+    "image": "/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Giao lưu",
+    "description": "Trao đổi về những hướng phát triển mới nhất về AI trên thời giới và tại Nhật Bản",
+    "image": "/features/noun_3d modeling_1885342.svg"
+  }
+]

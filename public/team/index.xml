@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thành viên on VJAI - Cộng đồng AI Việt Nam tại Nhật Bản</title>
+    <link>https://vjai.jp/team/</link>
+    <description>Recent content in Thành viên on VJAI - Cộng đồng AI Việt Nam tại Nhật Bản</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="https://vjai.jp/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phạm Quang Khang</title>
+      <link>https://vjai.jp/team/pham-quang-khang/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://vjai.jp/team/pham-quang-khang/</guid>
+      <description>Tốt nghiệp Thạc sĩ The University of Tokyo.</description>
+    </item>
+    
+    <item>
+      <title>Cao Vũ Dũng</title>
+      <link>https://vjai.jp/team/van-phu-quang-huy/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://vjai.jp/team/van-phu-quang-huy/</guid>
+      <description>Tốt nghiệp The University of Tokyo.</description>
+    </item>
+    
+    <item>
+      <title>Nguyễn Phước Tấn Đạt</title>
+      <link>https://vjai.jp/team/nguyen-phuoc-tan-dat/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://vjai.jp/team/nguyen-phuoc-tan-dat/</guid>
+      <description>Tốt nghiệp Thạc sĩ The University of Tokyo</description>
+    </item>
+    
+    <item>
+      <title>Cao Vũ Dũng (PhD)</title>
+      <link>https://vjai.jp/team/cao-vu-dung/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://vjai.jp/team/cao-vu-dung/</guid>
+      <description>Tốt nghiệp Tiến sĩ Tokyo Institute of Technology.</description>
+    </item>
+    
+  </channel>
+</rss>

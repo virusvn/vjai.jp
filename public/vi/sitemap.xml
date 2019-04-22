@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vjai.jp/team/pham-quang-khang/</loc>
+    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/team/van-phu-quang-huy/</loc>
+    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/team/nguyen-phuoc-tan-dat/</loc>
+    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/team/cao-vu-dung/</loc>
+    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-4/</loc>
+    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/about/</loc>
+    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/</loc>
+    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/courses/</loc>
+    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/courses/mini-course-deep-learning-in-cv-2019/</loc>
+    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/papers/</loc>
+    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/news/</loc>
+    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/</loc>
+    <lastmod>2019-04-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vjai.jp/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vjai.jp/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vjai.jp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-15/</loc>
+    <lastmod>2019-03-19T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-14/</loc>
+    <lastmod>2019-01-27T15:00:00+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/team/</loc>
+    <lastmod>2018-02-12T15:37:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vjai.jp/en/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vjai.jp/ja/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vjai.jp/team/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-10/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-11/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-12/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-13/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-6/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-7/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-8/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/meetup-9/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/paper-reading-festival/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vjai.jp/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vjai.jp/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vjai.jp/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vjai.jp/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://vjai.jp/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://vjai.jp/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://vjai.jp/activities/vn-tectconnect/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
