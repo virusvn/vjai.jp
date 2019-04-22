@@ -2,6 +2,7 @@ title = "VJAI"
 baseURL = "https://vjai.jp"
 languageCode = "vi"
 theme = "hugo-serif-theme"
+publishDir = "docs"
 # themesDir = "../.."
 
 MetaDataFormat = "yaml"
