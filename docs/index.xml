@@ -48,16 +48,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-4/</link>
-      <pubDate>Fri, 12 Apr 2019 15:37:57 +0700</pubDate>
-      
-      <guid>https://vjai.jp/activities/meetup-4/</guid>
-      <description>Chủ đề: Cycle Gan Diễn giả: Văn Phú Quang Huy Địa điểm: cty CookPad (cty của diễn giả) Do không đặt dc địa điểm như thường lệ nên btc đã nhờ bạn Huy đặt hộ phòng của cty.
-Tháng 10 sẽ tiếp tục tháng 9 với 1 bài nữa về GANs vì về cơ bản GANs đang khá là HOT. Chủ đề của tháng 10 sẽ là CYCLEGANs CycleGAN là thuật toán dựa trên GAN để biến ảnh này sang ảnh khác chỉ thay đổi bề mặt của vật thể mà vẫn giữ nguyên bố cục.</description>
-    </item>
-    
-    <item>
       <title>Mini-course: Deep learning in Computer Vision</title>
       <link>https://vjai.jp/courses/mini-course-deep-learning-in-cv-2019/</link>
       <pubDate>Fri, 12 Apr 2019 15:37:57 +0700</pubDate>
@@ -69,7 +59,7 @@ HẠN NHẬN HỒ SƠ: 23:59 14/1/2019
     </item>
     
     <item>
-      <title>Khách mời đặc biệt cựu kỹ sư DeepMind</title>
+      <title>Meetup 15: Khách mời đặc biệt cựu kỹ sư DeepMind</title>
       <link>https://vjai.jp/activities/meetup-15/</link>
       <pubDate>Tue, 19 Mar 2019 15:37:57 +0700</pubDate>
       
@@ -91,51 +81,9 @@ Xin gửi đến cả nhà VJAI lời chào đầu năm! Đến với meetup m�
     </item>
     
     <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjai.jp/activities/meetup-1/</guid>
-      <description>Benkyokai đầu tiên cho 1 chuỗi sự kiện trên thềm chuẩn bị cho VWDL 2018. địa điểm: アカデミー向ヶ丘　phòng đa mục đích, tầng 3. https://goo.gl/maps/dErarXKPvhH2
-Tháng 5 này chúng ta hân hạnh được nghe phát biểu từ anh Nguyễn Duy Khương và anh Đinh Quang Huy với nội dung như sau:
-Nguyễn Duy Khương: Deep Learning for Sparse Big Data in Recommendation Systems
-Học sâu là một phương pháp mạnh trong học máy và có rất nhiều ứng dụng đa dạng trong công nghiệp, đặc biệt trong nhận dạng tiếng nói và ảnh với độ chính xác rất cao.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjai.jp/activities/meetup-10/</guid>
-      <description>Chào cả nhà,
-Tháng 10 này chúng ta sẽ đến với 1 chủ đề đang rất HOT trong 2 năm nay với sự xưng bá của AlphaGo trong làng kỳ thủ GO: Reinforcement Learning. Vậy Reinforcement Learning (Deep Reinforcement Learning) là gì và nó có thể giải quyết những bài toán nào? Hãy cùng 2 diễn giả là Nguyễn Duy Khương và Phong Nguyễn cùng tìm hiểu về lĩnh vực này và 1 ứng dụng thiết thực của nó trong Recommendation System.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjai.jp/activities/meetup-11/</guid>
-      <description>Đến với Meetup #11, chúng ta sẽ được gặp gỡ 2 khách mời mang đến cho chúng ta 2 bài nói trong lĩnh vực Reinforcement Learning và Computer Vision.
- Thời gian: 14h~18h thứ 7 - 3/11/2018 (mở cửa đón khách 13h40 ~ 13h55) Địa điểm: Roppongi Mori Tower 〒106-6126 東京都, 港区, 六本木, 6-10-1 六本木ヒルズ森タワー  Hướng dẫn: Tập trung tại tầng 1 tòa nhà Mori Tower rồi cùng checkin và lên văn phòng</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjai.jp/activities/meetup-12/</guid>
-      <description>Chào cả nhà, đến với Meetup #12, chúng ta sẽ được gặp gỡ khách mời từ 2 công ty công nghệ nổi tiếng là Microsoft và NVIDIA, với bài nói về những chủ đề cực hot trong AI hiện nay là chatbot và công nghệ xe tự lái.
- Thời gian: 14h~18h Chủ nhật - 02/12/2018 (mở cửa đón khách 13h40 ~ 13h55) Địa điểm: Microsoft Japan office tầng 30 108-0075 東京都港区港南 2-16-3 品川グランドセントラルタワー https://www.</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Meetup 13</title>
       <link>https://vjai.jp/activities/meetup-13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Dec 2018 15:00:00 +0700</pubDate>
       
       <guid>https://vjai.jp/activities/meetup-13/</guid>
       <description>Chào cả nhà, đến với buổi Meetup cuối cùng của năm 2018, chúng ta sẽ đến với 2 bài toán nổi trội trong lĩnh vực xử lý ngôn ngữ tự nhiên là dịch máy (Machine Translattion) và đọc hiểu văn bản (Reading Comprehension). Hãy cùng đến xem máy tính đang tiến sát với con người trong việc xử lý ngôn ngữ đến đâu nhé.
@@ -143,56 +91,39 @@ Thời gian: 14h~18h Chủ nhật - 16/12/2018 (mở cửa đón khách 13h40 ~ 
     </item>
     
     <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Meetup 12</title>
+      <link>https://vjai.jp/activities/meetup-12/</link>
+      <pubDate>Sun, 02 Dec 2018 15:00:00 +0700</pubDate>
       
-      <guid>https://vjai.jp/activities/meetup-2/</guid>
-      <description>Cùng tìm hiểu các thuật toán đã được phát triển trong bài toán tối ưu hóa Gradient descent Benkyokai tháng 6 sẽ được một nhóm các bạn trình bày về chủ để Gradient Descent Optimization Algorithms Với 1 chủ đề xuyên suốt 2 tiếng thời lượng của chương trình, nhóm sẽ trình bày từ những khái niệm cơ bản như Gradient, những thách thức trong bài toán tối ưu hóa và những thuật toán đã và đang được ứng dụng rộng rãi: Stochastic gradient descent, momentum, ADA Grad hay Adam.</description>
+      <guid>https://vjai.jp/activities/meetup-12/</guid>
+      <description>Chào cả nhà, đến với Meetup #12, chúng ta sẽ được gặp gỡ khách mời từ 2 công ty công nghệ nổi tiếng là Microsoft và NVIDIA, với bài nói về những chủ đề cực hot trong AI hiện nay là chatbot và công nghệ xe tự lái.
+ Thời gian: 14h~18h Chủ nhật - 02/12/2018 (mở cửa đón khách 13h40 ~ 13h55) Địa điểm: Microsoft Japan office tầng 30 108-0075 東京都港区港南 2-16-3 品川グランドセントラルタワー https://www.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Meetup 10</title>
+      <link>https://vjai.jp/activities/meetup-10/</link>
+      <pubDate>Sun, 14 Oct 2018 15:00:00 +0700</pubDate>
       
-      <guid>https://vjai.jp/activities/meetup-3/</guid>
-      <description>9 Sep 2017 at 10:00 – 10 Sep 2017 at 13:00
-Thời gian: 10:00-13:00 Địa điểm: 東京都渋谷区道玄坂1-17-9 ヴェラハイツ506号室 Địa điểm lần này là ở Shibuya, khác với mọi lần nên mọi người chú ý Khái quát nội dung: Giới thiệu về generative modeling, một bài toán trong unsupervised learning. Cụ thể chúng ta sẽ tìm hiểu về mô hình GAN và một hướng tiếp cận từ góc nhìn distribution matching. Tác giả: Nguyễn Dương, Nguyễn Đạt</description>
+      <guid>https://vjai.jp/activities/meetup-10/</guid>
+      <description>Chào cả nhà,
+Tháng 10 này chúng ta sẽ đến với 1 chủ đề đang rất HOT trong 2 năm nay với sự xưng bá của AlphaGo trong làng kỳ thủ GO: Reinforcement Learning. Vậy Reinforcement Learning (Deep Reinforcement Learning) là gì và nó có thể giải quyết những bài toán nào? Hãy cùng 2 diễn giả là Nguyễn Duy Khương và Phong Nguyễn cùng tìm hiểu về lĩnh vực này và 1 ứng dụng thiết thực của nó trong Recommendation System.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Meetup 9</title>
+      <link>https://vjai.jp/activities/meetup-9/</link>
+      <pubDate>Sat, 29 Sep 2018 15:00:00 +0700</pubDate>
       
-      <guid>https://vjai.jp/activities/meetup-5/</guid>
-      <description>Saturday, 31 March 2018 at 14:00
-Location link: https://info.cookpad.com/corporate/access Benkyokai tháng 3 sẽ có sự góp mặt của 2 diễn giả với 2 chủ đề rất hot cho practitioners: 1. Văn Phú Quang Huy:Phân loại ý kiến đóng góp của người dùng (customer feedback classification) Ý kiến đóng góp của người dùng là rất quan trọng trong việc phát triền bất cứ dịch vụ nào. Tuy nhiên, dịch vụ có số lượng người dùng lớn với hàng trăm ý kiến đóng góp đến mỗi ngày thì việc chuyển tải từng ý kiến đến đúng team thích hợp là việc không hề dễ dàng.</description>
+      <guid>https://vjai.jp/activities/meetup-9/</guid>
+      <description>Chào cả nhà,
+Meetup tháng 9 lần này sẽ là 2 bài nói về Mask-RCNN và Hidden Markov Model. Trong khi Mask-RCNN là thuật toán gần đây do Facebook AI Research phát triển để giải quyết bài toán Instance Segmentation trong Computer Vision thì Hidden Markov Model lại là 1 mô hình học máy thống kê cổ điển nhưng đã và đang được ứng dụng rất nhiều trong thực tiễn.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjai.jp/activities/meetup-6/</guid>
-      <description>Diễn giả: Khang Phạm Tiêu đề: Word embedding Note: từ tháng này, các event sẽ đổi tên thành VN Machine Learning Meetup (lần này là lần thứ 6 trong 1 năm qua ^^) Xử lý các bài toán về Text là 1 vấn đề khá khó nhưng có rất nhiều ứng dụng trong thực tiễn: sentiment analytics, machine translation, chatbot… Cái khó khi xử lý text là việc text không phải số như ảnh nhưng các từ trong 1 từ điển nếu xử lý như 1 biến độc lập thì sẽ bỏ qua rất nhiều chi tiết về ngữ nghĩa của từ và văn bản.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vjai.jp/activities/meetup-7/</guid>
-      <description>Tiêu đề: RNN và mô hình hoá ngôn ngữ Diễn giả: Đỗ Minh Hải Tóm tắt: Các câu từ trong một văn bản không được sắp xếp một cách ngẫu nhiên mà theo trình tự văn cảnh ngữ nghĩa nhất định nào đó. Nên việc biết trước ngữ cảnh trước đó có thể giúp ta hình dung được ngữ cảnh có thể xuất hiện tiếp theo. Ví dụ, nếu ta có đoạn &amp;ldquo;Đẹp trai thì lắm&amp;rdquo;, ta có thể dự đoán được từ tiếp theo có thể xuất hiện là &amp;ldquo;gái&amp;rdquo;, &amp;ldquo;tiền&amp;rdquo;, &amp;ldquo;trai&amp;rdquo;… Trong bài viết này, mình sẽ trình bày về lý thuyết cơ bản của mạng RNN - 1 mô hình mô phỏng sự phụ thuộc văn cảnh như vậy.</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Meetup 8</title>
       <link>https://vjai.jp/activities/meetup-8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Aug 2018 15:00:00 +0700</pubDate>
       
       <guid>https://vjai.jp/activities/meetup-8/</guid>
       <description>Sequence to Sequence Models: A Review
@@ -201,19 +132,78 @@ In this seminar, we will explore several important applications of the fundament
     </item>
     
     <item>
-      <title></title>
-      <link>https://vjai.jp/activities/meetup-9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Meetup 7</title>
+      <link>https://vjai.jp/activities/meetup-7/</link>
+      <pubDate>Fri, 27 Jul 2018 15:00:00 +0700</pubDate>
       
-      <guid>https://vjai.jp/activities/meetup-9/</guid>
-      <description>Chào cả nhà,
-Meetup tháng 9 lần này sẽ là 2 bài nói về Mask-RCNN và Hidden Markov Model. Trong khi Mask-RCNN là thuật toán gần đây do Facebook AI Research phát triển để giải quyết bài toán Instance Segmentation trong Computer Vision thì Hidden Markov Model lại là 1 mô hình học máy thống kê cổ điển nhưng đã và đang được ứng dụng rất nhiều trong thực tiễn.</description>
+      <guid>https://vjai.jp/activities/meetup-7/</guid>
+      <description>Tiêu đề: RNN và mô hình hoá ngôn ngữ Diễn giả: Đỗ Minh Hải Tóm tắt: Các câu từ trong một văn bản không được sắp xếp một cách ngẫu nhiên mà theo trình tự văn cảnh ngữ nghĩa nhất định nào đó. Nên việc biết trước ngữ cảnh trước đó có thể giúp ta hình dung được ngữ cảnh có thể xuất hiện tiếp theo. Ví dụ, nếu ta có đoạn &amp;ldquo;Đẹp trai thì lắm&amp;rdquo;, ta có thể dự đoán được từ tiếp theo có thể xuất hiện là &amp;ldquo;gái&amp;rdquo;, &amp;ldquo;tiền&amp;rdquo;, &amp;ldquo;trai&amp;rdquo;… Trong bài viết này, mình sẽ trình bày về lý thuyết cơ bản của mạng RNN - 1 mô hình mô phỏng sự phụ thuộc văn cảnh như vậy.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Meetup 6</title>
+      <link>https://vjai.jp/activities/meetup-6/</link>
+      <pubDate>Wed, 27 Jun 2018 15:00:00 +0700</pubDate>
+      
+      <guid>https://vjai.jp/activities/meetup-6/</guid>
+      <description>Diễn giả: Khang Phạm Tiêu đề: Word embedding Note: từ tháng này, các event sẽ đổi tên thành VN Machine Learning Meetup (lần này là lần thứ 6 trong 1 năm qua ^^) Xử lý các bài toán về Text là 1 vấn đề khá khó nhưng có rất nhiều ứng dụng trong thực tiễn: sentiment analytics, machine translation, chatbot… Cái khó khi xử lý text là việc text không phải số như ảnh nhưng các từ trong 1 từ điển nếu xử lý như 1 biến độc lập thì sẽ bỏ qua rất nhiều chi tiết về ngữ nghĩa của từ và văn bản.</description>
+    </item>
+    
+    <item>
+      <title>Meetup 4: Cycle Gan</title>
+      <link>https://vjai.jp/activities/meetup-4/</link>
+      <pubDate>Thu, 12 Apr 2018 15:37:57 +0700</pubDate>
+      
+      <guid>https://vjai.jp/activities/meetup-4/</guid>
+      <description>Chủ đề: Cycle Gan Diễn giả: Văn Phú Quang Huy Địa điểm: cty CookPad (cty của diễn giả) Do không đặt dc địa điểm như thường lệ nên btc đã nhờ bạn Huy đặt hộ phòng của cty.
+Tháng 10 sẽ tiếp tục tháng 9 với 1 bài nữa về GANs vì về cơ bản GANs đang khá là HOT. Chủ đề của tháng 10 sẽ là CYCLEGANs CycleGAN là thuật toán dựa trên GAN để biến ảnh này sang ảnh khác chỉ thay đổi bề mặt của vật thể mà vẫn giữ nguyên bố cục.</description>
+    </item>
+    
+    <item>
+      <title>Meetup 5</title>
+      <link>https://vjai.jp/activities/meetup-5/</link>
+      <pubDate>Sat, 31 Mar 2018 15:00:00 +0700</pubDate>
+      
+      <guid>https://vjai.jp/activities/meetup-5/</guid>
+      <description>Saturday, 31 March 2018 at 14:00
+Location link: https://info.cookpad.com/corporate/access Benkyokai tháng 3 sẽ có sự góp mặt của 2 diễn giả với 2 chủ đề rất hot cho practitioners: 1. Văn Phú Quang Huy:Phân loại ý kiến đóng góp của người dùng (customer feedback classification) Ý kiến đóng góp của người dùng là rất quan trọng trong việc phát triền bất cứ dịch vụ nào. Tuy nhiên, dịch vụ có số lượng người dùng lớn với hàng trăm ý kiến đóng góp đến mỗi ngày thì việc chuyển tải từng ý kiến đến đúng team thích hợp là việc không hề dễ dàng.</description>
+    </item>
+    
+    <item>
+      <title>Meetup 11</title>
+      <link>https://vjai.jp/activities/meetup-11/</link>
+      <pubDate>Sun, 11 Mar 2018 15:00:00 +0700</pubDate>
+      
+      <guid>https://vjai.jp/activities/meetup-11/</guid>
+      <description>Đến với Meetup #11, chúng ta sẽ được gặp gỡ 2 khách mời mang đến cho chúng ta 2 bài nói trong lĩnh vực Reinforcement Learning và Computer Vision.
+ Thời gian: 14h~18h thứ 7 - 3/11/2018 (mở cửa đón khách 13h40 ~ 13h55) Địa điểm: Roppongi Mori Tower 〒106-6126 東京都, 港区, 六本木, 6-10-1 六本木ヒルズ森タワー  Hướng dẫn: Tập trung tại tầng 1 tòa nhà Mori Tower rồi cùng checkin và lên văn phòng</description>
+    </item>
+    
+    <item>
+      <title>VN Techconnect 2018: Power of AI</title>
+      <link>https://vjai.jp/activities/vn-tectconnect/</link>
+      <pubDate>Fri, 01 Dec 2017 15:37:57 +0700</pubDate>
+      
+      <guid>https://vjai.jp/activities/vn-tectconnect/</guid>
+      <description>🗾 Tháng 12 này tại xứ sở mặt trời mọc, VN Geeks sẽ chính thức mang VN Techconnect trở lại với cộng đồng IT Việt Nam. Vẫn giữ trọn những giá trị làm nên thành công của sự kiện đầu tiên, VN Techconnect 2018 hứa hẹn sẽ hấp dẫn hơn nữa nhờ những đổi mới &amp;ldquo;đắt giá&amp;rdquo;.
+🎤 TECHTALK - &amp;ldquo;Cổ mà không cũ&amp;rdquo;
+Hình thức lắng nghe diễn giả truyền đạt thông tin cùng phần hỏi đáp Q&amp;amp;A đã trở nên hết sức phổ biến.</description>
+    </item>
+    
+    <item>
+      <title>Meetup 3</title>
+      <link>https://vjai.jp/activities/meetup-3/</link>
+      <pubDate>Sun, 10 Sep 2017 15:00:00 +0700</pubDate>
+      
+      <guid>https://vjai.jp/activities/meetup-3/</guid>
+      <description>9 Sep 2017 at 10:00 – 10 Sep 2017 at 13:00
+Thời gian: 10:00-13:00 Địa điểm: 東京都渋谷区道玄坂1-17-9 ヴェラハイツ506号室 Địa điểm lần này là ở Shibuya, khác với mọi lần nên mọi người chú ý Khái quát nội dung: Giới thiệu về generative modeling, một bài toán trong unsupervised learning. Cụ thể chúng ta sẽ tìm hiểu về mô hình GAN và một hướng tiếp cận từ góc nhìn distribution matching. Tác giả: Nguyễn Dương, Nguyễn Đạt</description>
+    </item>
+    
+    <item>
+      <title>Paper Reading Festival: Summer 2018</title>
       <link>https://vjai.jp/activities/paper-reading-festival/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Aug 2017 15:37:57 +0700</pubDate>
       
       <guid>https://vjai.jp/activities/paper-reading-festival/</guid>
       <description>Paper Reading Festival: Summer 2018
@@ -222,14 +212,24 @@ Nội dung: mỗi presenter sẽ giới thiệu về 1 paper chọn từ top con
     </item>
     
     <item>
-      <title>VN Techconnect 2018: Power of AI</title>
-      <link>https://vjai.jp/activities/vn-tectconnect/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Meetup 2</title>
+      <link>https://vjai.jp/activities/meetup-2/</link>
+      <pubDate>Thu, 27 Jul 2017 15:00:00 +0700</pubDate>
       
-      <guid>https://vjai.jp/activities/vn-tectconnect/</guid>
-      <description>🗾 Tháng 12 này tại xứ sở mặt trời mọc, VN Geeks sẽ chính thức mang VN Techconnect trở lại với cộng đồng IT Việt Nam. Vẫn giữ trọn những giá trị làm nên thành công của sự kiện đầu tiên, VN Techconnect 2018 hứa hẹn sẽ hấp dẫn hơn nữa nhờ những đổi mới &amp;ldquo;đắt giá&amp;rdquo;.
-🎤 TECHTALK - &amp;ldquo;Cổ mà không cũ&amp;rdquo;
-Hình thức lắng nghe diễn giả truyền đạt thông tin cùng phần hỏi đáp Q&amp;amp;A đã trở nên hết sức phổ biến.</description>
+      <guid>https://vjai.jp/activities/meetup-2/</guid>
+      <description>Cùng tìm hiểu các thuật toán đã được phát triển trong bài toán tối ưu hóa Gradient descent Benkyokai tháng 6 sẽ được một nhóm các bạn trình bày về chủ để Gradient Descent Optimization Algorithms Với 1 chủ đề xuyên suốt 2 tiếng thời lượng của chương trình, nhóm sẽ trình bày từ những khái niệm cơ bản như Gradient, những thách thức trong bài toán tối ưu hóa và những thuật toán đã và đang được ứng dụng rộng rãi: Stochastic gradient descent, momentum, ADA Grad hay Adam.</description>
+    </item>
+    
+    <item>
+      <title>Meetup 1</title>
+      <link>https://vjai.jp/activities/meetup-1/</link>
+      <pubDate>Sat, 27 May 2017 15:00:00 +0700</pubDate>
+      
+      <guid>https://vjai.jp/activities/meetup-1/</guid>
+      <description>Benkyokai đầu tiên cho 1 chuỗi sự kiện trên thềm chuẩn bị cho VWDL 2018. địa điểm: アカデミー向ヶ丘　phòng đa mục đích, tầng 3. https://goo.gl/maps/dErarXKPvhH2
+Tháng 5 này chúng ta hân hạnh được nghe phát biểu từ anh Nguyễn Duy Khương và anh Đinh Quang Huy với nội dung như sau:
+Nguyễn Duy Khương: Deep Learning for Sparse Big Data in Recommendation Systems
+Học sâu là một phương pháp mạnh trong học máy và có rất nhiều ứng dụng đa dạng trong công nghiệp, đặc biệt trong nhận dạng tiếng nói và ảnh với độ chính xác rất cao.</description>
     </item>
     
   </channel>
